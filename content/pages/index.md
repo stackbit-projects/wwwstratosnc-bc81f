@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/FONDSTRATOS.png
+    image: images/11_thumb.jpg
     image_alt: App preview
     title: Votre partenaire informatique
     content: >
