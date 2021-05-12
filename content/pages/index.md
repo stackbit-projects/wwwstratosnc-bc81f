@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Votre partenaire informatique
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Stratos est une société de service et d’ingénierie informatique qui
+      propose un accompagnement de bout en bout à ses clients à Nouméa et sur
+      toute la Nouvelle-Calédonie.
     actions:
       - label: Learn More
         url: /features
