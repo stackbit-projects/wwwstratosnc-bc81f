@@ -50,7 +50,10 @@
     }
 
     .bg-stratos {
-      
+       margin: 50px 0;
+    background-image: url('../public/FONDSTRATOS.png');
+    background-size: cover;
+    background-repeat: no-repeat;
     color: #fff;
 
       .button {
