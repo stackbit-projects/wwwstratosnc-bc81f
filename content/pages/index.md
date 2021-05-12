@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Forme-STRATOS-1.png
+    image: images/Forme-STRATOS-1-min.png
     image_alt: App preview
     title: Votre partenaire informatique
     content: >
