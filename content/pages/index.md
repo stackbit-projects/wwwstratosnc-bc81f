@@ -11,7 +11,7 @@ sections:
       propose un accompagnement de bout en bout à ses clients à Nouméa et sur
       toute la Nouvelle-Calédonie.
     actions:
-      - label: Learn More
+      - label: En savoir plus
         url: /features
         style: primary
       - label: lorem-ipsum
