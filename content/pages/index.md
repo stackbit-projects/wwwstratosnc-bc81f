@@ -13,7 +13,7 @@ sections:
     actions:
       - label: En savoir plus
         url: /features
-        style: secondary
+        style: link
       - label: lorem-ipsum
         url: '#'
         style: link
